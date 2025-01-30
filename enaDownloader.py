@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 ## Usage: python enaDownloader.py <filename>
 ## <filename> contains one study accession code per line
-
 import json
+## Added comment
 import requests
 import os
 import sys
